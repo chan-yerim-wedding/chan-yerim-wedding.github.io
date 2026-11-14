@@ -1,0 +1,129 @@
+{
+ "isSample": false,
+ "groom": {
+  "name": "임찬",
+  "en": "CHAN",
+  "father": "임재웅",
+  "mother": "이선희",
+  "order": "장남",
+  "phone": "010-0000-0000",
+  "fatherPhone": "",
+  "motherPhone": ""
+ },
+ "bride": {
+  "name": "이예림",
+  "en": "YERIM",
+  "father": "이하석",
+  "mother": "오혜정",
+  "order": "장녀",
+  "phone": "010-0000-0000",
+  "fatherPhone": "",
+  "motherPhone": ""
+ },
+ "date": "2027-02-28",
+ "time": "14:30",
+ "venue": "더컨벤션 문정",
+ "hall": "10층",
+ "address": "서울특별시 송파구 ㅇㅇㅇ",
+ "venueTel": "02-000-0000",
+ "greetTitle": "소중한 분들을 초대합니다",
+ "greeting": "봄의 한가운데에서\n서로의 계절이 되어주기로 약속했습니다.\n\n저희 두 사람이 사랑으로 만나\n한 길을 함께 걸어가려 합니다.\n귀한 걸음으로 축복해 주시면\n더없는 기쁨으로 간직하겠습니다.",
+ "subway": "8호선 ㅇㅇㅇㅇㅇ",
+ "bus": "ㅇㅇㅇㅇ",
+ "parking": "건물 지하 주차장 2시간 무료\n안내 데스크에서 주차 등록을 해주세요",
+ "accounts": {
+  "groom": [
+   {
+    "who": "신랑 임 찬",
+    "bank": "국민은행",
+    "num": "000000-00-000000"
+   },
+   {
+    "who": "아버지 임재웅",
+    "bank": "신한은행",
+    "num": "000-000-000000"
+   }
+  ],
+  "bride": [
+   {
+    "who": "신부 이예림",
+    "bank": "우리은행",
+    "num": "0000-000-000000"
+   },
+   {
+    "who": "아버지 이하석",
+    "bank": "하나은행",
+    "num": "000-000000-00000"
+   }
+  ]
+ },
+ "closing": "참석이 어려우신 분들도\n멀리서 보내주시는 마음 깊이 감사드립니다.\n늘 고마운 마음 잊지 않고 잘 살겠습니다.",
+ "cover": "images/cover.jpg",
+ "photos": [
+  "images/g1.jpg",
+  "images/g2.jpg",
+  "images/g3.jpg",
+  "images/g4.jpg",
+  "images/g5.jpg",
+  "images/g6.jpg",
+  "images/g7.jpg",
+  "images/g8.jpg",
+  "images/g9.jpg"
+ ],
+ "mid": "images/mid.jpg",
+ "midText": "봄날의 햇살처럼\n따뜻한 마음으로\n평생을 함께하겠습니다",
+ "siteTitle": "",
+ "theme": "mono",
+ "font": "classic",
+ "script": "cormorant",
+ "coverStyle": "below",
+ "galleryStyle": "grid",
+ "effect": "petals",
+ "motion": true,
+ "order": [
+  "greeting",
+  "story",
+  "mid",
+  "gallery",
+  "calendar",
+  "location",
+  "notice",
+  "accounts",
+  "contact",
+  "closing"
+ ],
+ "hidden": {
+  "story": true,
+  "notice": true
+ },
+ "story": [
+  {
+   "date": "2021. 05",
+   "title": "첫 만남",
+   "text": "(예시) 친구의 소개로 처음 만난 날"
+  },
+  {
+   "date": "2023. 10",
+   "title": "첫 여행",
+   "text": "(예시) 함께 떠난 첫 여행"
+  },
+  {
+   "date": "2026. 06",
+   "title": "프러포즈",
+   "text": "(예시) 평생을 약속한 날"
+  }
+ ],
+ "notices": [
+  {
+   "title": "식사 안내",
+   "text": "(예시) 예식 후 같은 층 연회장에서 식사가 준비되어 있습니다."
+  },
+  {
+   "title": "화환 안내",
+   "text": "(예시) 축하 화환은 정중히 사양합니다."
+  }
+ ],
+ "car": "",
+ "bgm": "",
+ "bgmName": ""
+}
